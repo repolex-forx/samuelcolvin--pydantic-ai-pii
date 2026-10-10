@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/pydantic-ai-pii/commit/2ff638b7cdcfbeea34acf0773b7112024c2d03cc",
       "git:hexsha": "2ff638b7cdcfbeea34acf0773b7112024c2d03cc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:43:46.838893+00:00"
     }
   ]
 }
