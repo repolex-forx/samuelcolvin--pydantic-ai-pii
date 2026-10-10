@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "pydantic-ai-pii",
+  "versions": [
+    {
+      "commit": "2ff638b7cdcfbeea34acf0773b7112024c2d03cc",
+      "parsed_at": "2026-10-10T22:40:04.970582+00:00",
+      "filetree": "filetree/2ff638b7cdcfbeea34acf0773b7112024c2d03cc.nq.gz",
+      "blobs": [
+        "blob/faca77c59c13a0c5baaa46c667c96de0dbfdbcb8.nq.gz",
+        "blob/cf26ae97b8772fa6b1a0c0df415d077af7f3f1a2.nq.gz",
+        "blob/bc1a1a00ea78f97b0a1da7bc9f16658849eaca65.nq.gz",
+        "blob/ba07f138f5d63f30d02cf0d9baf13c55e049b331.nq.gz",
+        "blob/10a159f7fc0bb3fe3e72b48c851d2d410c859629.nq.gz",
+        "blob/6324d401a069f4020efcf0ff07442724b52f47c2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
